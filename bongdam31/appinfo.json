@@ -1,0 +1,10 @@
+{
+  "id": "com.bongdam31.com",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "bongdam 3-1",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
